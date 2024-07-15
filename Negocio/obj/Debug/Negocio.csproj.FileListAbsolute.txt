@@ -1,0 +1,143 @@
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Downloads\TPI v10\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\710\Desktop\Nueva carpeta\Negocio\bin\Debug\Negocio.dll
+C:\Users\710\Desktop\Nueva carpeta\Negocio\bin\Debug\Negocio.pdb
+C:\Users\710\Desktop\Nueva carpeta\Negocio\bin\Debug\Datos.dll
+C:\Users\710\Desktop\Nueva carpeta\Negocio\bin\Debug\Entidades.dll
+C:\Users\710\Desktop\Nueva carpeta\Negocio\bin\Debug\Datos.pdb
+C:\Users\710\Desktop\Nueva carpeta\Negocio\bin\Debug\Entidades.pdb
+C:\Users\710\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\710\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\710\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\710\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.dll
+C:\Users\710\Desktop\Nueva carpeta\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian\Downloads\TPI v14\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Downloads\TPI v14\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Downloads\TPI v14\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Downloads\TPI v14\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Downloads\TPI v14\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Downloads\TPI v14\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Downloads\TPI v14\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Downloads\TPI v14\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Downloads\TPI v14\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Downloads\TPI v14\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Downloads\TPI v14\Negocio\obj\Debug\Negocio.pdb
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\bin\Debug\Negocio.dll
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\bin\Debug\Datos.dll
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\bin\Debug\Entidades.dll
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\bin\Debug\Datos.pdb
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\bin\Debug\Entidades.pdb
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\obj\Debug\Negocio.dll
+C:\Users\axel-\Downloads\Para Trabajar\Prog_TP_Integrador\TEMPORAL_VERSION MÁS ACTUAL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Downloads\Nueva carpeta (3)\TPI v20\Negocio\obj\Debug\Negocio.pdb
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\710\Desktop\TPI\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Downloads\TPI v22\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\710\Desktop\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Visual Studio Code\Nueva carpeta\TPI v1\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI V4\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TPI v6\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (2)\TRabajo actual\TPINT_GRUPO_21_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Nueva carpeta (3)\TPI v11\Negocio\obj\Debug\Negocio.pdb
